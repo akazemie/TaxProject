@@ -1,4 +1,5 @@
 using TaxCalculator.Entities;
+using static TaxCalculator.Services.TaxCalculatorService;
 
 namespace TaxCalculator.Test
 {
